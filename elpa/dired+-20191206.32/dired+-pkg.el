@@ -1,0 +1,2 @@
+;;; Generated package description from /Users/marcohassan/.emacs.d/elpa/dired+-20191206.32/dired+.el  -*- no-byte-compile: t -*-
+(define-package "dired+" "20191206.32" "Extensions to Dired." 'nil :authors '(("Drew Adams")) :maintainer '(nil . "Drew Adams (concat \"drew.adams\" \"@\" \"oracle\" \".com\")") :keywords '("unix" "mouse" "directories" "diredp" "dired") :url "https://www.emacswiki.org/emacs/download/dired%2b.el")
