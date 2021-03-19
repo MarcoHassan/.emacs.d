@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: image_nikola
+# key: img
+# --
+
+[[img-url:/images/$0][]]
+
+
+
+

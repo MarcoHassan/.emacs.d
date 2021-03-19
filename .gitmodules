@@ -1,0 +1,24 @@
+[submodule "vscode-icon-emacs"]
+	path = vscode-icon-emacs
+	url = https://github.com/jojojames/vscode-icon-emacs
+[submodule "n"]
+	path = vscode-icon-emacs
+	url = https://github.com/jojojames/vscode-icon-emacs
+[submodule "vscode_images"]
+	path = vscode-icon-emacs
+	url = https://github.com/jojojames/vscode-icon-emacs
+[submodule "ipython-notebooks-depreciated"]
+	path = ox-ipynb
+	url = https://github.com/jkitchin/ox-ipynb
+[submodule "ipython"]
+	path = ob-ipython
+	url = https://github.com/gregsexton/ob-ipython
+[submodule "mirrors"]
+	path = epkgs
+	url = git@github.com:emacsmirror/epkgs.git
+[submodule "smart-hungry"]
+	path = emacs-smart-hungry-delete
+	url = https://github.com/hrehfeld/emacs-smart-hungry-delete
+[submodule "sidebar"]
+	path = dired-sidebar
+	url = https://github.com/jojojames/dired-sidebar

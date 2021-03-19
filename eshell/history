@@ -1,0 +1,128 @@
+ls
+cd nil/
+ls
+cd ..
+ls
+mv ~/Downloads/pynsource-1.75-macosx.zip ~/Desktop/Program_Executables/
+ls
+cd IBM_projects/SchutzRettung/
+ls
+cd module-analytics/
+ls
+git status
+cd app/
+cd src/
+ls
+cd algorithms/
+ls
+cd v2/
+ls
+cp preprocessing.py local_algo/
+cp ranking.py local_algo/
+ls
+cp best_next_question.py local_algo/
+ls
+mv preprocessing.py preprocessingTree.py
+cd local_algo/
+mv preprocessing.py preprocessingTree.py
+ls
+ls
+cd ..
+ls
+ibmcloud cf push SRZ-Analytics-Dev
+bx target
+ibmcloud cf push SRZ-Analytics-Dev
+ibmcloud login --sso 
+ibmcloud cf push SRZ-Analytics-Dev
+ibmcloud target ..cf
+ibmcloud target --cf
+ibmcloud cf push SRZ-Analytics-Dev
+cd ..
+cd ..
+cd ..
+ibmcloud cf push SRZ-Analytics-Dev
+ibmcloud cf logs SRZ-Analytics-Dev --recent
+ibmcloud cf push SRZ-Analytics-Dev
+git status
+git status
+git status
+ls
+ls
+ls
+cd ..
+cd ..
+cd module-analytics/
+ls
+cd  ..
+cd ~/Dropbox/
+ls
+$
+cd ./[CommNet] Routing Project/
+cd "./[CommNet] Routing Project/"
+scp -r -P 2087 root@snowball.ethz.ch:~/configs_03-27-2020_08-29-47
+scp -r -P 2087 root@snowball.ethz.ch:~/configs_03-27-2020_08-29-47 .
+ls -la
+cp ~/Desktop/Screenshots/Bildschirmfoto 2020-03-27 um 09.10.36.png
+cp "~/Desktop/Screenshots/Bildschirmfoto 2020-03-27 um 09.10.36.png" .
+ls
+cp "~/Desktop/Screenshots/Bildschirmfoto 2020-03-27 um 08.52.07.png" .
+mv ~/Downloads/mactex-20190508.pkg ~/Downloads/Zoom.pkg ~/Desktop/Program_Executables/
+ls
+ls
+ls /usr/local/texlive/
+ls /usr/local/texlive/2019
+sl /usr/local/texlive/2019/bin/
+ls /usr/local/texlive/2019/bin/
+ls /usr/local/texlive/2019/bin/x86_64-darwin/
+which xelatex 
+touch ~/.bash_profile
+which xelatex 
+touch ~/.bash_profile
+ls
+cd ETH/
+ls
+cd BigData/
+ls
+cd Exercises/
+ls
+cd exercise1/
+cd ..
+cd exercise5/
+ls
+mv Exercise05_HBase.ipynb.txt Exercise05_HBase.ipynb
+jupyter nbconvert  Exercise05_HBase.ipynb --to markdown
+pandoc  Exercise05_HBase.md -o  Exercise05_HBase.org 
+ls backup/
+ls -la
+cd backup/
+ls
+rm -r *
+ls
+cd ..
+cp -r ../.emacs.d/ backup/
+cd backup/
+ls
+ls -la
+cd .emacs.d/
+ls
+cd ..
+cd ..
+ls
+cp ../.emacs backup/
+brew uninstall emacs
+ls
+kdjd
+fdkjfdsj
+kldfa
+~
+~
+ls
+ls -la
+ls
+ls -la
+~
+ls
+cd Desktop
+ls
+cd IBM_projects/SchutzRettung/module-analytics/
+ls

@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: htmlSinglebreak
+# key: br
+# --
+
+#+BEGIN_EXPORT html
+<br>
+#+END_EXPORT
+
+$0

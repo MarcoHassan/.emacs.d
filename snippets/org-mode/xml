@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: xml org chunck
+# key: nxml
+# --
+
+
+#+BEGIN_SRC nxml
+$0
+#+END_SRC
+

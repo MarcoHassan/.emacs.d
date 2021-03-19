@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: insert_eckige
+# key: ins[
+# binding: C-c C-5
+# --
+
+[$0]
