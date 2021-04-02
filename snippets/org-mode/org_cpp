@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: org_cpp
+# binding: C-c 7
+# --
+
+#+BEGIN_SRC cpp 
+$0
+#+END_SRC
