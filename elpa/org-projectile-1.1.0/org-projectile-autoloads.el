@@ -16,14 +16,10 @@ Goto the location at which TODOs for PROJECT are stored.
 \(fn PROJECT)" t nil)
 
 (autoload 'org-projectile-single-file "org-projectile" "\
-Set `org-projectile-strategy' so that captures occur in a single file.
-
-\(fn)" t nil)
+Set `org-projectile-strategy' so that captures occur in a single file." t nil)
 
 (autoload 'org-projectile-per-project "org-projectile" "\
-Set `org-projectile-strategy' so that captures occur within each project.
-
-\(fn)" t nil)
+Set `org-projectile-strategy' so that captures occur within each project." t nil)
 
 (autoload 'org-projectile-project-todo-completing-read "org-projectile" "\
 Select a project using a `projectile-completing-read' and record a TODO.

@@ -1,6 +1,4 @@
 ls
-cd nil/
-ls
 cd ..
 ls
 mv ~/Downloads/pynsource-1.75-macosx.zip ~/Desktop/Program_Executables/
@@ -125,4 +123,6 @@ ls
 cd Desktop
 ls
 cd IBM_projects/SchutzRettung/module-analytics/
+ls
+oc --help
 ls
