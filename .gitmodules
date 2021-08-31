@@ -34,3 +34,6 @@
 [submodule "quelpa/build/helm-bibtex"]
 	path = quelpa/build/helm-bibtex
 	url = https://github.com/tmalsburg/helm-bibtex.git
+[submodule "tea-timer.el"]
+	path = tea-timer.el
+	url = https://github.com/dakra/tea-timer.el.git
