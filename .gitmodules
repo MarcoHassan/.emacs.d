@@ -25,3 +25,15 @@
 [submodule "dired_hacks"]
 	path = dired-hacks
 	url = https://github.com/Fuco1/dired-hacks
+[submodule "quelpa/build/bibtex-completion"]
+	path = quelpa/build/bibtex-completion
+	url = https://github.com/tmalsburg/helm-bibtex.git
+[submodule "quelpa/build/helm-bibtex"]
+	path = quelpa/build/helm-bibtex
+	url = https://github.com/tmalsburg/helm-bibtex.git
+[submodule "quelpa/build/org-ref"]
+	path = quelpa/build/org-ref
+	url = https://github.com/emacsmirror/org-ref.git
+[submodule "tea-timer.el"]
+	path = tea-timer.el
+	url = https://github.com/dakra/tea-timer.el.git
